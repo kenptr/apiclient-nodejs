@@ -1,5 +1,10 @@
 # Voximplant API client library
-#### Version 1.1
+#### Version 1.1.6-p3
+
+## Changelog by @kenpottr
+ 
+- [1.1.6-p3] Allow passing creds as string (not only filename)
+- [1.1.6-p3] Enables type definition generation
 
 ## Prerequisites
 
